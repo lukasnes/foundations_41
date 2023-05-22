@@ -43,20 +43,20 @@ arr.slice(0,2) // creates a copy of a part of an array, takes a starting index a
     //does not change original data
 arr.splice(1,1,'new value') // removes/inserts values into an array, take up to 3 arguments. a starting index, the number of items removed, and any new values to be inserted
 
-let guessMe = 54
+// let guessMe = 54
 
-while (guessMe < 100) {
-    console.log('----------')
-    if (guessMe % 4 == 0 || guessMe % 5 == 0) {
-        console.log(`guessMe is ${guessMe} which is divisible by 4 or 5.  Added 25.`)
-        guessMe += 25
-    } else if (guessMe % 3 == 0) {
-        console.log(`guessMe is ${guessMe} which is divisible by 3.  Subtracted 27.`)
-        guessMe -= 27
-    } else {
-        console.log(`Added 3.`)
-        guessMe += 3
-    }
-    guessMe += 22
-    console.log(`guessMe is now ${guessMe}.`)
-}
+// while (guessMe < 100) {
+//     console.log('----------')
+//     if (guessMe % 4 == 0 || guessMe % 5 == 0) {
+//         console.log(`guessMe is ${guessMe} which is divisible by 4 or 5.  Added 25.`)
+//         guessMe += 25
+//     } else if (guessMe % 3 == 0) {
+//         console.log(`guessMe is ${guessMe} which is divisible by 3.  Subtracted 27.`)
+//         guessMe -= 27
+//     } else {
+//         console.log(`Added 3.`)
+//         guessMe += 3
+//     }
+//     guessMe += 22
+//     console.log(`guessMe is now ${guessMe}.`)
+// }
