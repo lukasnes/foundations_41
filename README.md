@@ -23,3 +23,7 @@ Passcode: 0&TA=jU& |
 Passcode: g6Qk@6=g |
 | `Week 2 Day 2` | Objects | https://strategiced.zoom.us/rec/share/l_IAWt7pUMDdg9Y67mKeqXUVxZw-ry-3_WzILMZefcbhv8NM1CyS94HntnMSYiEb.TOThsj5gvsfoPBC0?startTime=1684853523000
 Passcode: y!v0cx&g |
+| `week 2 Day 3` | callbacks | https://strategiced.zoom.us/rec/share/IY3vt8UF0JMecM9JIeEQP8OSdAhN4dwP4FhKnc5SpEzCr44tlIw642VLbbG652M8.T8oQRjoYiJACoyHB?startTime=1684939499000
+Passcode: 1%la*0F* |
+| `week 2 Day 4` | array methods | https://strategiced.zoom.us/rec/share/TY_mga7FHEn6d123FRBdbvK0iD6O3SYGENyNdHS3eLSGaJ44h9rXAR_WxfiBctbj.OmR5lf_p54GsrlLG?startTime=1685026321000
+Passcode: HdXvh=6D |
