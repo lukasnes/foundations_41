@@ -14,13 +14,15 @@
 
 const str1 = "Howdy, there!"
 
+let thirdChar = str1.charAt(2)
 
+// console.log(thirdChar)
 // 1.1b
 //  Find a URL that has documentation or usage examples for
 //  the string method used to solve 1.1a and put it
 //  here in a JS comment (an MDN link is usually a good choice).
 
-
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
 
 // 1.2a
 //  Given a string, str2, make a new string that is an
@@ -28,19 +30,22 @@ const str1 = "Howdy, there!"
 
 const str2 = "I forgot to turn off the oven!"
 
+let allCaps = str2.toUpperCase()
+
+// console.log(allCaps)
 
 // 1.2b
 //  Find a URL that has documentation or usage examples for
 //  the string method used to solve 1.2a and put it
 //  here in a JS comment (an MDN link is usually a good choice).
 
-
+// https://www.w3schools.com/JSREF/jsref_touppercase.asp
 
 // 1.3
 //  Using your Google sleuthing skills, find out what the .trim()
 //  method does, and explain it in comments below, in your own words.
 
-
+// returns a new string with whitespace removed from the front and back of string.
 
 // 1.4
 //  Using your Google sleuthing skills, find a JS string method
@@ -53,6 +58,10 @@ const str2 = "I forgot to turn off the oven!"
 //    "I love to eut upples and bununus".
 //  Put the name of the method you find in a comment below.
 
+let myStr = "I love to eat apples and bananas"
+let newStr = myStr.replaceAll('a','u')
+
+// console.log(newStr)
 
 
 // *** Problem 2 ***
@@ -69,10 +78,12 @@ const last = 'Paboni'
 const num = 2
 const phrase = 'want to mess'
 
+console.log(`My number ` + num + `'s named "`+ first + ' ' + last + `": and you don't ` + phrase + '!')
 
 // 2.2
 //  Do problem 2.1 by doing another way of string concatenation.
 //  For example, if the '+' operator was used, perhaps template
 //  literals should be used this time.
 
+console.log(`My number ${num}'s named "${first} ${last}": and you don't ${phrase}!`)
 

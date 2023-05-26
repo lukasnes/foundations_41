@@ -28,13 +28,18 @@
 
 const map1 = [1, 2, 3, 4, 5]
 
+let map2 = map1.map((num)=> num - 1)
 
+// console.log(map2)
 // 1.2
 //  Using the map method, create a new array, map3, that is
 //  the same as map1, except for all the numbers are converted
 //  to the string data type.
+let map3 = map1.map((num)=>{
+return num.toString()
+})
 
-
+// console.log(map3)
 
 // 1.3
 //  Given an array of objects, map4, using the map method,
@@ -63,6 +68,12 @@ const map4 = [
     },
 ]
 
+let map5 = map4.map((obj)=>{
+    obj.name = `President ` + obj.name
+
+    return obj
+})
+console.log(map5)
 
 // *** Problem 2 ***
 //  Students should be able to use the array's filter method
@@ -73,7 +84,9 @@ const map4 = [
 
 const arrNum = [1, 5, 6, 8, 0, 19, -2]
 
+let oddNums = arrNum.filter((num)=> num % 2 === 1)
 
+console.log(oddNums)
 // 2.2
 //  Using the array from 2.1, arrNum, create a new array
 //  using the filter method that only contains odd numbers

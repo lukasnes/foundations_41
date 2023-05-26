@@ -22,13 +22,29 @@
 //       this method has no parameters and both logs and returns
 //       the animal's primaryColor.
 
+class Animal {
+    constructor(weightInLbs,primaryColor,isVertebrate){
+        this.weightInLbs = weightInLbs
+        this.isVertebrate = isVertebrate
+        this.primaryColor = primaryColor
+    }
+    incWeight(weight){
+        this.weightInLbs +=  weight
+    }
+    printColor(){
+        console.log(this.primaryColor)
+        return this.primaryColor
+    }
+}
 
 
 // 1.2
 //  Make two instances of the Animal class, with any values you
 //   please, that are the correct data type (as mentioned above).
 //   Save the instances to variables.
+let dog = new Animal(60,true,'brown')
 
+let snek = new Animal(2,true,'red')
 
 
 // 1.3
@@ -36,13 +52,22 @@
 //  both the incWeight method (passing in a number) and the
 //  printColor method. Save the printColor invocations to variables.
 
+dog.incWeight(5)
+snek.incWeight(1)
 
+let dogColor = dog.printColor()
+let snekColor = snek.printColor()
 
 // 1.4
 //  Save the weights of the objects made in 1.2 to variables.
 //  Log these values to the console. Also, log both of the
 //  objects (the entire things) to the console.
-
+let dogWeight = dog.weightInLbs
+let snekWeight =  snek.weightInLbs
+console.log(dog)
+console.log(snek)
+console.log(dogWeight)
+console.log(snekWeight)
 
 
 // *** Problem 2 ***
@@ -71,13 +96,30 @@
 //       The method will change the object's name property
 //       to be the name passed in.
 
-
+class Dog extends Animal {
+    constructor(weightInLbs,primaryColor,name,heightAtWithersInInches,breed){
+        super(weightInLbs, primaryColor)
+        this.name = name
+        this.heightAtWithersInInches = heightAtWithersInInches
+        this.breed = breed
+        this.isGoodPupper = true
+        this.isVertebrate = true
+    }
+    bark(){
+        console.log('bow-wow')
+    }
+    setName(name){
+        this.name = name
+    }
+}
 
 // 2.2
 //  Make two instances of the Dog class, with any values you
 //   please, that are the correct data type (as mentioned above).
 //   Save the instances to variables.
 
+let sam  =  new Dog(50,'brown','sam',20,'boxer')
+let bella = new Dog(60,'brown and black','bella',18,'boxer')
 
 
 // 2.3
@@ -85,9 +127,15 @@
 //   both the incWeight method (passing in a number) and the
 //   bark method.
 
+sam.incWeight(5)
+bella.incWeight(5)
 
+sam.bark()
+bella.bark()
 
 // 2.4
 //  Log both of the Dog objects (the entire things) to the console.
 
 
+console.log(sam)
+console.log(bella)
