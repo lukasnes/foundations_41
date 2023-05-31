@@ -22,5 +22,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 1 Day 5` | Agile | https://strategiced.zoom.us/rec/share/V5TihbQKKID6BSAE1Nl9pqYXLyrw4kcDjQD5HdsDr_Q6S_iluT0B1cpVcV8mVwSw.cVKzS2018nhWbgCf |
 | `Week 2 Day 1` | Functions | https://strategiced.zoom.us/rec/share/Jg5s-ItRM8M3uP2Ip8I-E92wUuszSUWmHx4hAhQw_C4HhDSlaWw_dJVZNQcMrmZU.yoOWfaZ3xGwt0SgD?startTime=1684766239000 |
 | `Week 2 Day 2` | Objects | https://strategiced.zoom.us/rec/share/l_IAWt7pUMDdg9Y67mKeqXUVxZw-ry-3_WzILMZefcbhv8NM1CyS94HntnMSYiEb.TOThsj5gvsfoPBC0?startTime=1684853523000 |
-| `week 2 Day 3` | Callbacks | https://strategiced.zoom.us/rec/share/IY3vt8UF0JMecM9JIeEQP8OSdAhN4dwP4FhKnc5SpEzCr44tlIw642VLbbG652M8.T8oQRjoYiJACoyHB?startTime=1684939499000 |
-| `week 2 Day 4` | Array Methods | https://strategiced.zoom.us/rec/share/TY_mga7FHEn6d123FRBdbvK0iD6O3SYGENyNdHS3eLSGaJ44h9rXAR_WxfiBctbj.OmR5lf_p54GsrlLG?startTime=1685026321000 |
+| `Week 2 Day 3` | Callbacks | https://strategiced.zoom.us/rec/share/IY3vt8UF0JMecM9JIeEQP8OSdAhN4dwP4FhKnc5SpEzCr44tlIw642VLbbG652M8.T8oQRjoYiJACoyHB?startTime=1684939499000 |
+| `Week 2 Day 4` | Array Methods | https://strategiced.zoom.us/rec/share/TY_mga7FHEn6d123FRBdbvK0iD6O3SYGENyNdHS3eLSGaJ44h9rXAR_WxfiBctbj.OmR5lf_p54GsrlLG?startTime=1685026321000 |
+| `Week 3 Day 2` | HTML & CSS 1 | https://strategiced.zoom.us/rec/share/StCdVFRAen26R0H4DyVMj1tx-lGBmzehNRol1efPb6saudSdKBH5AK3FL41OCZlt.ebb8ejlZd4RjMT8e |
+| `Week 3 Day 3` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/jN0obPquS2-IP4aVdJWpGev8xfFcpwYNKZ-KuRwY3nsUjeyGAmAYbj6L4XN_xnKi.dp0_kgM60drwjyMy |
