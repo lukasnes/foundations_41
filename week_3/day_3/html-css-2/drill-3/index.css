@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+
+header{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    background-color: lightgray;
+}
+
+#icon{
+    background-color:aqua;
+    height: 100px;
+    width: 100px;
+}
+
+main{
+    padding: 50px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.color-bar{
+    height: 200px;
+}
+
+#blue{
+    background-color: blue;
+}
+#turquoise{
+    background-color: turquoise;
+}
+#lime{
+    background-color: yellowgreen;
+}
+#yellow{
+    background-color: yellow;
+}
+
+#help{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-size: 3em;
+}
