@@ -27,3 +27,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 2` | HTML & CSS 1 | https://strategiced.zoom.us/rec/share/StCdVFRAen26R0H4DyVMj1tx-lGBmzehNRol1efPb6saudSdKBH5AK3FL41OCZlt.ebb8ejlZd4RjMT8e |
 | `Week 3 Day 3` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/jN0obPquS2-IP4aVdJWpGev8xfFcpwYNKZ-KuRwY3nsUjeyGAmAYbj6L4XN_xnKi.dp0_kgM60drwjyMy |
 | `Week 3 Day 4` | JS Interactivity | https://strategiced.zoom.us/rec/share/RHUz7i4xcY2I87gcfoj0sLLVSgBUC8OKrYLmrDmt4rMvznqtIK8bFDxyDr2pLKQp.eHAA37Fuo0c5e3pW |
+| `Week 3 Day 5` | Requests | https://strategiced.zoom.us/rec/share/YffeDMYvNFQBuUUdwb5D43czbu6LhYhxz4l2wzvBPfDHD-qA_vv3WFx8Cxu78eeK.sdUCiSUMB-K6y5iq |
+| `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/QmFWYxtBanF_a31h0F-hae8OwEWXCiYxIl7-gZp1inKFh7RnfxHeKGgk0CedtbJh.aWBZ6CHtWqT16czk |
