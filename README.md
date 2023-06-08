@@ -30,3 +30,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 5` | Requests | https://strategiced.zoom.us/rec/share/YffeDMYvNFQBuUUdwb5D43czbu6LhYhxz4l2wzvBPfDHD-qA_vv3WFx8Cxu78eeK.sdUCiSUMB-K6y5iq |
 | `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/QmFWYxtBanF_a31h0F-hae8OwEWXCiYxIl7-gZp1inKFh7RnfxHeKGgk0CedtbJh.aWBZ6CHtWqT16czk |
 | `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/XcvOOCU-0vCwUxRzpOeTNvQeSRqCte0Nv5XFaS0xvhBDicYsjp41s34M02PM19sM.DNALL9YThzMZV6pH |
+| `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/DN90Zs3ODStUjGPB1ID1Wr1LgPfZmWaKjb7c9NlzO1AIzl48H7GLGSTqn9Aj_V5o.PaKnkcDx3kqbCpOu |
+| `Week 4 Day 4` | Cybersecurity | https://strategiced.zoom.us/rec/share/glUjexpiyzC82S56QgUIXPDo4QrSwNESwF4sPn6hLQtnhL5uqsT2n1AfBPOnfK9J.2vnQl_YHJZWRo0OP |
