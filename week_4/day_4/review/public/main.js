@@ -13,9 +13,9 @@ const displayMovies = movieArr => {
         let deleteBtn = document.createElement('button')
 
         movieTitle.textContent = title
-        if(watched){
-            movieTitle.classList = 'checked'
-        }
+
+        movieTitle.classList = watched ? 'checked' : ''
+
         movieTitle.id = index
         movieTitle.addEventListener('click', updateMovie)
 
