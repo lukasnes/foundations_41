@@ -1,0 +1,36 @@
+        Features
+
+users can sign into the app with their email and password
+
+users can follow each other
+
+users can create posts with photos and/or text
+
+users can comment on posts
+
+users can join groups
+
+users can create posts within groups
+
+
+        BRAINSTORM
+
+email, password, userName, post=> post text, post pictures, data of post, 
+comments=> comment text
+group names
+
+        TABLES
+
+users, groups, posts, comments, group_posts, photo, members
+
+
+
+one to one => one row from table A relates to only one row from table B
+    User table and Admin table => one user might also have a row on a 'Special' Admin users table.
+
+one to many => one row from table A possibly relates to many from Table B
+    User table and comments Table => one User can create Many comments
+
+many to many => many rows from one table might relate to many rows in another table
+    students table and classes table => students can take many classes, a class can have many students.
+        note best way to organize these connections are with a middle table.
