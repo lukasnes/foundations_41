@@ -1,0 +1,44 @@
+header {
+    position: sticky;
+    top: 0;
+    height: 100px;
+    background-color: white;
+    border-bottom: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+}
+
+#header-title{
+    color: orange;
+    font-size: xx-large;
+    font-weight: 1000;
+}
+main {
+    min-height: calc(100vh - 103px);
+    background-color: rgb(242, 205, 136);
+    display: grid;
+}
+
+.food-card{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    border: orange solid 2px;
+    padding: 10px;
+}
+
+.food-img {
+    width: 70%;
+    height: 40%;
+}
