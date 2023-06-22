@@ -1,0 +1,15 @@
+{
+  "name": "testgoogle",
+  "version": "1.0.0",
+  "description": "Test suite for testing google.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "selenium-webdriver": "^4.8.1"
+  }
+}

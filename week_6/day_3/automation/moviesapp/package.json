@@ -1,0 +1,17 @@
+{
+  "name": "moviesapp",
+  "version": "1.0.0",
+  "description": "An application that allow users to keep a list of movies for you to run automated tests on.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server public --no-ui",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.28.1",
+    "jest": "^29.4.3",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
