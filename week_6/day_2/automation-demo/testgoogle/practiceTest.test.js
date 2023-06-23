@@ -28,6 +28,8 @@ describe("Test the Google homepage", () => {
 
     await driver.findElement(By.name("q")).sendKeys("puppies", Key.RETURN);
 
+    await driver.wait(until.titleIs('puppies - Google Search'))
+
     await driver.findElement(By.linkText('Images')).click();
 
     const currentPage = await driver.wait(until.elementLocated(By.css('span[aria-current="page"]')));
