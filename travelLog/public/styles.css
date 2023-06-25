@@ -1,0 +1,47 @@
+header {
+    position: sticky;
+    top: 0;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: azure;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    color: darkblue;
+    font-size: xx-large;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#wishlist-form {
+    height: 50px;
+    padding: 10px;
+    position: sticky;
+    top: 150px;
+}
+
+#section-container{
+    display: flex;
+    width: 100vw;
+    min-height: calc(100vh - 150px);
+}
+
+.list-section{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
