@@ -13,8 +13,11 @@ afterEach(async ()=>{
 describe('Test the Movies App', ()=>{
     test('add a movie', async ()=>{
         await driver.get('http://localhost:3000/')
-        await driver.findElement(By.id('add-movie-input')).sendKeys('titanic',Key.RETURN);
-        const movie = await driver.wait(until.elementLocated(By.css('#movies-list li label')),1000);
-        await driver.sleep(4000)
-        expect(await movie.getText()).toBe('titanic')
+        await driver.findElement(By.id('add-movie-input')).sendKeys('Shrek',Key.RETURN);
+        await driver.wait(until.elementLocated(By.css('#movies-list li input')),1000).click();
+        const message = await driver.findElement(By.css('aside[id="message"]')).getText();
+        
+
+        expect(await message).toBe('Watched Shrek')
+        
 })})
