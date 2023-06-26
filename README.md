@@ -40,3 +40,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 6 Day 3` | Deployment | https://strategiced.zoom.us/rec/share/oijpHjIJzCx8k_Q9C3exPHi6D9J_B5j-CYn8ox89JKHgztW5VYMUsomnjkgV5_z_.TSsVgPD4jUr5ByVd |
 | `Week 6 Day 4` | DevOps | https://strategiced.zoom.us/rec/share/EVUcNiGbHZZJzmHl93kSLqh6Tb91MfZd0O0KmyK0T_Ncdzo6TsbKxcTE7QSe3g1z.VQW7QXpGB8f7StPD |
 | `Week 6 Review` | Review | https://strategiced.zoom.us/rec/share/gDwFjvdf1rARSfAjy4AkCb9aKqqs3lmttt7Z2-DNK3v0-MHe05DT3thYAdfz2JFP.cDSC96cesTGTFzgn |
+| `Week 7 Day 1` | Algorithms & Capstone | https://strategiced.zoom.us/rec/share/-Cjj0zr2CdTzClnoF6q66zyP0n3qPwoxlZrWATz2T4F8hkHRJKMe8g3BBOVaEImL.iS-PH_8x4EDx8rDw |
