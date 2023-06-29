@@ -45,3 +45,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 7 Day 2 EoD` | CSS Tips & Tricks | https://strategiced.zoom.us/rec/share/yrjCEuM2rS9m4vGK2HTPUvfB5Nqzb27mDaPm_C4yzI1E-gkHRAwAW0RXbvX9QvdZ.wcazy2ldmFAT-iZd |
 | `Week 7 Day 3` | Data Structures | https://strategiced.zoom.us/rec/share/RQb11HmAI6mdl5snzAAI_Utvu80AUco7P4Lh6mBhhme_w8PSLnwWv8o_C5JBKcY.bFtLMhvvLItnZyzw |
 | `Week 7 Day 3 EoD` | Modals | https://strategiced.zoom.us/rec/share/VriAzaHQ3QnoHWmtNjVoH-z04-_X5f0PcFJP2B66cjgzsmmtlYBt-HQ0aTiSRVzI.N5tUysSI3gLlt6EU |
+| `Week 7 Day 4` | Com Sci Hist | https://strategiced.zoom.us/rec/share/d2LMrHQk51SODF78_6_D82WUD6LklmbFLBiBDVKNdizYD4fNmx4Xo3b1q7nszsNw.zAY6eDufz6AhrTF3 |
