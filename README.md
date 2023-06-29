@@ -43,3 +43,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 7 Day 1` | Algorithms & Capstone | https://strategiced.zoom.us/rec/share/-Cjj0zr2CdTzClnoF6q66zyP0n3qPwoxlZrWATz2T4F8hkHRJKMe8g3BBOVaEImL.iS-PH_8x4EDx8rDw |
 | `Week 7 Day 2` | Big O | https://strategiced.zoom.us/rec/share/R6pH84pP9mlvSS30HWbOZD9DTRlhSuKSKOWr2JQKUNxa5I_ARwKOJk7x0NH21jUO.SAh2gG0cX-aMVELo |
 | `Week 7 Day 2 EoD` | CSS Tips & Tricks | https://strategiced.zoom.us/rec/share/yrjCEuM2rS9m4vGK2HTPUvfB5Nqzb27mDaPm_C4yzI1E-gkHRAwAW0RXbvX9QvdZ.wcazy2ldmFAT-iZd |
+| `Week 7 Day 3` | Data Structures | https://strategiced.zoom.us/rec/share/RQb11HmAI6mdl5snzAAI_Utvu80AUco7P4Lh6mBhhme_w8PSLnwWv8o_C5JBKcY.bFtLMhvvLItnZyzw |
+| `Week 7 Day 3 EoD` | Modals | https://strategiced.zoom.us/rec/share/VriAzaHQ3QnoHWmtNjVoH-z04-_X5f0PcFJP2B66cjgzsmmtlYBt-HQ0aTiSRVzI.N5tUysSI3gLlt6EU |
