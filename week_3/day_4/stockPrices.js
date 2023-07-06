@@ -1,8 +1,8 @@
 const best = arr => {
-    let lowest = arr[0]
-    let profit = 0
+    let lowest = arr[0]                         //O(1)
+    let profit = 0                              //O(1)
 
-    for(let i = 0; i < arr.length; i++){
+    for(let i = 0; i < arr.length; i++){        //O(n)
         if(arr[i] < lowest){
             lowest = arr[i]
         }
@@ -15,7 +15,7 @@ const best = arr => {
 
     return profit
 }
-
+//O(n)
 
 
 console.log(best([15, 10, 20, 22, 1, 9])) // 12

@@ -1,9 +1,9 @@
 
 
 const hasUnique = (string)=>{
-    for(let i = 0; i < string.length; i++){
-        for(let x = i + 1; x < string.length; x++){
-            if(string[i] === string[x]){
+    for(let i = 0; i < string.length; i++){             //O(n)
+        for(let x = i + 1; x < string.length; x++){     //O(n)
+            if(string[i] === string[x]){                //O(1)
                 return false
             }
         }
@@ -11,11 +11,14 @@ const hasUnique = (string)=>{
     return true
 }
 
+//O(n(n(1)))
+//O(n^2)
+
 console.log(hasUnique('asdf'))
 
 
 function hasUniqueChars(string){
-    const mySet = new Set(string)
+    const mySet = new Set(string)           //O(n)
     console.log(mySet)
 
     if(string.length === mySet.size){
@@ -25,4 +28,5 @@ function hasUniqueChars(string){
     }
 }
 
+//O(n)
 console.log(hasUniqueChars('Aabcs'))
